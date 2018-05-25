@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "my-react-scripts",
   "version": "1.1.0",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
@@ -69,7 +69,9 @@
     "webpack": "4.8.3",
     "webpack-dev-server": "3.1.4",
     "webpack-manifest-plugin": "2.0.3",
-    "whatwg-fetch": "2.0.4"
+    "whatwg-fetch": "2.0.4",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.2.1"
   },
   "devDependencies": {
     "react": "^16.3.2",
