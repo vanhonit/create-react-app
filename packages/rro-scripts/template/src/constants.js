@@ -1,0 +1,1 @@
+// Define global constant here
